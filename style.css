@@ -1,0 +1,307 @@
+.container1{border: none;
+display: block;
+height: 60vh;
+background-color: rgb(15, 2, 2);
+margin: 0px;
+}
+
+.brewer{float: left;
+height: 1000px;
+border-radius: 50%;
+margin-top: 2%;
+margin-left: 10%;}
+
+.navbar{list-style-type: none;
+background-color: rgb(58, 23, 23);
+display: inline-block;
+padding: 0px;
+margin-top: 6%;
+margin-left: 100px;
+border: none;
+border-radius: 25px;
+vertical-align: top;
+}
+
+.navbar a{color: rgb(252, 252, 252);
+text-decoration: none;
+padding-top: 50px;
+padding-right: 100px;
+padding-bottom: 50px;
+padding-left: 100px;
+font-size: 90px;
+font-family: Arial, Helvetica;
+display: inline-block;
+}
+
+.navbar a:hover{background-color: rgb(247, 231, 182);
+color: rgb(15, 2, 2);
+border: none;
+border-radius: 15px;
+padding-top: 50px;
+padding-right: 110px;
+padding-bottom: 50px;
+padding-left: 110px;
+transition: 0.5s;}
+
+.dark{float: right;
+height: 1900px;
+width: 1500px;
+margin-left: 0px;
+vertical-align: top;
+margin-top: -9%;
+transform: rotateZ(0deg);
+border: none;
+margin-right: 0.5%;
+border-style: ridge;
+border-color: rgb(15, 2, 2);
+box-shadow: 10px 5px 13px rgb(22, 3, 3);
+display: flow-root;
+}
+
+.mood{font-size:300px;
+font-family: 'Times New Roman', Times, serif;
+color: rgb(247, 231, 182);
+margin-bottom: 0px;}
+
+.sip{font-family: Verdana, Geneva, Tahoma;
+font-size: 80px;
+color: rgb(247, 231, 182);
+margin-top: 10px;
+margin-left: 26%;}
+
+.container2{border: none;
+display: block;
+height: 50vh;
+background-color: rgb(247, 231, 182);}
+
+.discover{float: left;
+height: 1250px;
+width: 1250px;
+border-radius:200px ;
+margin-top: 150px;
+margin-left: 600px;
+margin-right: 700px;
+border-width: 15px ;
+border-style: ridge;
+border-color:wheat;
+box-shadow: 13px 13px 13px rgb(243, 217, 138);}
+
+.borcelle{color: rgb(15, 2, 2);
+font-size: 170px;
+font-family: arial;
+font-weight: bold;
+margin-top: 0px;
+padding-top: 150px;
+margin-bottom: 0px;
+}
+.elevate{color:rgb(15, 2, 2) ;
+font-weight: lighter;
+font-size: 80px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-top: 10px;}
+
+.mission{font-size: 70px;
+font-family: arial;
+color: black;
+margin-bottom: 50px;
+margin-top: 50px;
+}
+
+button{margin-top: 70px;}
+
+.read{padding: 50px 150px 50px 150px;
+color: rgb(247, 231, 182);
+background-color: rgb(15, 2, 2);
+border-radius: 8px;
+border-style: none;
+font-size: 60px;}
+
+.container3{border: none;
+display: block;
+height: 50vh;
+background-color: #3a2e1f;
+}
+
+.reviews{color: white;
+    font-size: 170px;
+    font-family: arial;
+    font-weight: bold;
+    margin-top: 0px;
+    padding-top: 150px;
+    margin-bottom: 0px;
+text-align: center;
+display: inline-block;
+padding-left: 45%;
+}
+
+.cup{display: inline;
+color: rgb(247, 231, 182);}
+
+.what{color: rgb(247, 231, 182);
+font-size: 80px;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 10px;}
+
+.lorem{background-color: rgb(247, 231, 182);
+color: rgb(15, 2, 2);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 50px;
+display: inline-block;
+margin-left: 10%;
+text-align: center;
+border-radius: 50px;
+padding: 120px 100px 130px 100px;
+margin-right: 50px;}
+
+.ipsum{background-color: rgb(247, 231, 182);
+    color: rgb(15, 2, 2);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    display: inline-block;
+    border-radius: 50px;
+    text-align: center;
+    padding: 120px 100px 130px 100px;
+    margin-right: 50px;
+}
+
+.dolor{background-color: rgb(247, 231, 182);
+    color: rgb(15, 2, 2);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    display: inline-block;
+    border-radius: 50px;
+    text-align: center;
+    padding: 120px 100px 130px 100px;
+}
+
+.comment{text-decoration: none;
+    color: rgb(33, 33, 114);
+}
+
+.container4{border: none;
+display: block;
+height: 70vh;
+background-color: rgb(15, 2, 2);
+}
+
+.contact1{display: inline-block;
+margin-left: 10%;
+vertical-align: top;
+}
+
+.us{color: white;
+    font-size: 170px;
+    font-family: arial;
+    font-weight: bold;
+margin-bottom: 0px;}
+
+.send{font-size: 80px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(139, 89, 89);
+margin-top: 10px;}
+
+input{height: 200px;
+width: 1200px;
+font-size: 60px;
+font-weight: bold;
+border: none;}
+
+textarea{height: 400px;
+width: 1500px;
+font-size: 60px;
+font-family: Arial, Helvetica, sans-serif;
+color: gray;
+border: none;
+margin-top: 30px;}
+
+.submit{padding:30px 160px 30px 160px;
+border-radius: 25px;
+border: none;
+font-size: 70px;
+font-weight: bold;
+background-color: rgb(247, 231, 182);
+color: rgb(15, 2, 2);}
+
+.site{display: inline-block;
+vertical-align: top;
+margin-left: 500px;
+}
+
+.map{color: white;
+font-size: 170px;
+font-family: arial;
+font-weight: bold;
+margin-top: 30%;
+margin-bottom: 10px;}
+
+.pages{color: rgb(139, 89, 89);
+font-size: 80px;
+font-family: Arial, Helvetica, sans-serif;
+margin-top: 10px;
+margin-bottom: 200px;}
+
+.homeone{text-decoration: none;
+font-size: 90px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgb(247, 231, 182);}
+
+.kernelone{display: inline-block;
+margin-left: 300px;}
+
+.brewer1{border-radius: 50%;
+border: none;
+height: 800px;
+margin-top: 10%;
+margin-bottom: 0px;
+display: block;
+}
+.tel{height: 120px;
+display: inline-block;
+margin-top: 150px;
+margin-bottom: 0px;
+margin-left: 10px;
+margin-right: 0px;
+}
+
+.mail{height: 100px;
+display: inline-block;
+margin-top: 70px;
+margin-right: 0px;}
+
+.infoone{font-size: 70px;
+color: rgb(247, 231, 182);
+font-family: Arial, Helvetica;
+margin-left: 80px;
+margin-top: 50px;
+margin-bottom: 0px;
+display: inline-block;
+vertical-align: baseline;
+text-decoration: none;
+}
+
+.infotwo{font-size: 80px;
+color: rgb(247, 231, 182);
+font-family: Arial, Helvetica;
+margin-left: 30px;
+margin-top: 10px;
+display: inline-block;
+vertical-align: baseline;
+text-decoration: none;
+}
+
+.container5{border: none;
+display: block;
+height: 4vh;
+background-color: rgb(247, 231, 182);}
+
+.copyright{font-family: Arial, Helvetica, sans-serif;
+font-size: 60px;
+padding-top: 40px;
+margin-top: 0px;
+color: rgb(15, 2, 2);
+text-align: center;}
+
+
+
+*{box-sizing: border-box;}
